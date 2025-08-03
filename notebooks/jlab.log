@@ -1,0 +1,185 @@
+[I 2025-03-28 21:55:28.895 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-03-28 21:55:28.898 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-03-28 21:55:28.900 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-03-28 21:55:29.061 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-03-28 21:55:29.075 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-03-28 21:55:29.076 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-03-28 21:55:29.076 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-03-28 21:55:29.078 LabApp] JupyterLab extension loaded from /home/prithwijit/programming/python/age_gender_project/.venv/lib/python3.11/site-packages/jupyterlab
+[I 2025-03-28 21:55:29.078 LabApp] JupyterLab application directory is /home/prithwijit/programming/python/age_gender_project/.venv/share/jupyter/lab
+[I 2025-03-28 21:55:29.078 LabApp] Extension Manager is 'pypi'.
+[I 2025-03-28 21:55:29.142 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-03-28 21:55:29.143 ServerApp] Serving notebooks from local directory: /home/prithwijit/programming/python/age_gender_project/notebooks
+[I 2025-03-28 21:55:29.143 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2025-03-28 21:55:29.143 ServerApp] http://localhost:8888/lab?token=5419be1ab4c46ef5bda3d136f2a41df4a38f2c72ba470480
+[I 2025-03-28 21:55:29.143 ServerApp]     http://127.0.0.1:8888/lab?token=5419be1ab4c46ef5bda3d136f2a41df4a38f2c72ba470480
+[I 2025-03-28 21:55:29.143 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-03-28 21:55:29.186 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/prithwijit/.local/share/jupyter/runtime/jpserver-247132-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=5419be1ab4c46ef5bda3d136f2a41df4a38f2c72ba470480
+        http://127.0.0.1:8888/lab?token=5419be1ab4c46ef5bda3d136f2a41df4a38f2c72ba470480
+[I 2025-03-28 21:55:29.194 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2025-03-28 21:55:31.406 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-03-28 21:55:32.517 ServerApp] Kernel started: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-28 21:55:33.037 ServerApp] Connecting to kernel 21bdc40e-1c3f-4a99-9283-04738a369840.
+[I 2025-03-28 21:55:33.040 ServerApp] Connecting to kernel 21bdc40e-1c3f-4a99-9283-04738a369840.
+[I 2025-03-28 21:55:33.051 ServerApp] Connecting to kernel 21bdc40e-1c3f-4a99-9283-04738a369840.
+2025-03-28 21:55:42.109520: I tensorflow/core/util/port.cc:111] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-03-28 21:55:42.137339: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-03-28 21:55:42.323635: E tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:9342] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2025-03-28 21:55:42.323688: E tensorflow/compiler/xla/stream_executor/cuda/cuda_fft.cc:609] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2025-03-28 21:55:42.324807: E tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:1518] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-03-28 21:55:42.446459: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-03-28 21:55:42.447093: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-03-28 21:55:43.245304: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 2025-03-28 21:57:32.324 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 21:59:32.429 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:01:33.306 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:05:34.309 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:07:34.376 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:09:34.520 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:13:34.570 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:15:34.613 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:17:34.689 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:19:34.771 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:21:16.977 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:21:25.197 ServerApp] Kernel restarted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-28 22:21:25.202 ServerApp] Starting buffering for 21bdc40e-1c3f-4a99-9283-04738a369840:76dd5a6a-c509-447e-8de5-f6e5b425179a
+[I 2025-03-28 22:21:25.205 ServerApp] Connecting to kernel 21bdc40e-1c3f-4a99-9283-04738a369840.
+[I 2025-03-28 22:21:25.206 ServerApp] Restoring connection for 21bdc40e-1c3f-4a99-9283-04738a369840:76dd5a6a-c509-447e-8de5-f6e5b425179a
+2025-03-28 22:21:29.648091: I tensorflow/core/util/port.cc:111] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-03-28 22:21:29.649779: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-03-28 22:21:29.675372: E tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:9342] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2025-03-28 22:21:29.675409: E tensorflow/compiler/xla/stream_executor/cuda/cuda_fft.cc:609] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2025-03-28 22:21:29.675428: E tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:1518] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-03-28 22:21:29.680279: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-03-28 22:21:29.680992: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-03-28 22:21:30.315980: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 2025-03-28 22:23:17.057 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:25:17.135 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:27:17.214 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:29:17.295 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:31:17.376 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:33:17.447 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:35:17.524 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:37:17.606 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:39:17.682 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:41:17.765 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:43:17.842 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:45:17.923 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:47:18.002 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:49:18.083 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:51:18.164 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:53:18.242 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:55:19.300 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:57:19.379 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 22:59:19.464 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:01:19.502 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:03:19.585 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:05:20.305 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:07:20.409 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:09:20.483 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:09:38.046 ServerApp] Kernel interrupted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-28 23:09:38.220 ServerApp] Kernel interrupted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-28 23:09:38.339 ServerApp] Kernel interrupted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-28 23:09:38.513 ServerApp] Kernel interrupted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-28 23:09:38.687 ServerApp] Kernel interrupted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-28 23:09:38.854 ServerApp] Kernel interrupted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-28 23:09:39.028 ServerApp] Kernel interrupted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-28 23:09:39.202 ServerApp] Kernel interrupted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-28 23:09:40.912 ServerApp] Kernel interrupted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-28 23:09:41.058 ServerApp] Kernel interrupted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-28 23:10:00.459 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:11:47.413 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:12:03.484 ServerApp] Kernel restarted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-28 23:12:03.488 ServerApp] Starting buffering for 21bdc40e-1c3f-4a99-9283-04738a369840:76dd5a6a-c509-447e-8de5-f6e5b425179a
+[I 2025-03-28 23:12:03.490 ServerApp] Connecting to kernel 21bdc40e-1c3f-4a99-9283-04738a369840.
+[I 2025-03-28 23:12:03.490 ServerApp] Restoring connection for 21bdc40e-1c3f-4a99-9283-04738a369840:76dd5a6a-c509-447e-8de5-f6e5b425179a
+2025-03-28 23:12:08.662084: I tensorflow/core/util/port.cc:111] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-03-28 23:12:08.663609: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-03-28 23:12:08.689531: E tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:9342] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2025-03-28 23:12:08.689567: E tensorflow/compiler/xla/stream_executor/cuda/cuda_fft.cc:609] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2025-03-28 23:12:08.689586: E tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:1518] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-03-28 23:12:08.694324: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-03-28 23:12:08.694838: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-03-28 23:12:09.331474: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 2025-03-28 23:13:47.496 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:15:48.300 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:17:48.369 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:19:49.308 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:41:57.303 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:43:57.365 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:45:57.415 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-28 23:59:57.539 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:01:57.921 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:02:00.477 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
+[W 2025-03-29 00:02:00.477 ServerApp] kernel 21bdc40e-1c3f-4a99-9283-04738a369840 restarted
+[I 2025-03-29 00:02:00.541 ServerApp] Starting buffering for 21bdc40e-1c3f-4a99-9283-04738a369840:76dd5a6a-c509-447e-8de5-f6e5b425179a
+[I 2025-03-29 00:02:00.587 ServerApp] Connecting to kernel 21bdc40e-1c3f-4a99-9283-04738a369840.
+[I 2025-03-29 00:02:00.588 ServerApp] Restoring connection for 21bdc40e-1c3f-4a99-9283-04738a369840:76dd5a6a-c509-447e-8de5-f6e5b425179a
+[I 2025-03-29 00:02:15.455 ServerApp] Kernel restarted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-29 00:02:15.461 ServerApp] Starting buffering for 21bdc40e-1c3f-4a99-9283-04738a369840:76dd5a6a-c509-447e-8de5-f6e5b425179a
+[I 2025-03-29 00:02:15.465 ServerApp] Connecting to kernel 21bdc40e-1c3f-4a99-9283-04738a369840.
+[I 2025-03-29 00:02:15.465 ServerApp] Restoring connection for 21bdc40e-1c3f-4a99-9283-04738a369840:76dd5a6a-c509-447e-8de5-f6e5b425179a
+[I 2025-03-29 00:02:21.815 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:02:25.673 ServerApp] Starting buffering for 21bdc40e-1c3f-4a99-9283-04738a369840:76dd5a6a-c509-447e-8de5-f6e5b425179a
+[I 2025-03-29 00:02:26.581 ServerApp] Connecting to kernel 21bdc40e-1c3f-4a99-9283-04738a369840.
+[W 2025-03-29 00:02:26.606 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-03-29 00:02:26.841 ServerApp] Starting buffering for 21bdc40e-1c3f-4a99-9283-04738a369840:43336c29-d6fb-49f4-9bdc-f51f3407c42b
+[I 2025-03-29 00:02:27.948 ServerApp] Connecting to kernel 21bdc40e-1c3f-4a99-9283-04738a369840.
+2025-03-29 00:02:31.802603: I tensorflow/core/util/port.cc:111] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-03-29 00:02:31.842241: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-03-29 00:02:32.047438: E tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:9342] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2025-03-29 00:02:32.047494: E tensorflow/compiler/xla/stream_executor/cuda/cuda_fft.cc:609] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2025-03-29 00:02:32.048610: E tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:1518] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-03-29 00:02:32.152707: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-03-29 00:02:32.154547: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-03-29 00:02:33.014866: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 2025-03-29 00:04:27.702 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:05:03.521 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
+[W 2025-03-29 00:05:03.526 ServerApp] kernel 21bdc40e-1c3f-4a99-9283-04738a369840 restarted
+[I 2025-03-29 00:05:03.587 ServerApp] Starting buffering for 21bdc40e-1c3f-4a99-9283-04738a369840:5a4bb556-8543-42bc-9952-2c819f54b2d1
+[I 2025-03-29 00:05:03.683 ServerApp] Connecting to kernel 21bdc40e-1c3f-4a99-9283-04738a369840.
+[I 2025-03-29 00:05:03.684 ServerApp] Restoring connection for 21bdc40e-1c3f-4a99-9283-04738a369840:5a4bb556-8543-42bc-9952-2c819f54b2d1
+[I 2025-03-29 00:05:14.445 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:05:19.456 ServerApp] Kernel restarted: 21bdc40e-1c3f-4a99-9283-04738a369840
+[I 2025-03-29 00:05:19.461 ServerApp] Starting buffering for 21bdc40e-1c3f-4a99-9283-04738a369840:5a4bb556-8543-42bc-9952-2c819f54b2d1
+[I 2025-03-29 00:05:19.464 ServerApp] Connecting to kernel 21bdc40e-1c3f-4a99-9283-04738a369840.
+[I 2025-03-29 00:05:19.464 ServerApp] Restoring connection for 21bdc40e-1c3f-4a99-9283-04738a369840:5a4bb556-8543-42bc-9952-2c819f54b2d1
+[I 2025-03-29 00:05:23.012 ServerApp] Starting buffering for 21bdc40e-1c3f-4a99-9283-04738a369840:5a4bb556-8543-42bc-9952-2c819f54b2d1
+[I 2025-03-29 00:05:23.727 ServerApp] Connecting to kernel 21bdc40e-1c3f-4a99-9283-04738a369840.
+[W 2025-03-29 00:05:23.789 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-03-29 00:05:23.932 ServerApp] Starting buffering for 21bdc40e-1c3f-4a99-9283-04738a369840:a1116db6-0389-4c25-923f-3e8e6046d624
+[I 2025-03-29 00:05:25.141 ServerApp] Connecting to kernel 21bdc40e-1c3f-4a99-9283-04738a369840.
+2025-03-29 00:05:28.645390: I tensorflow/core/util/port.cc:111] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-03-29 00:05:28.683066: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-03-29 00:05:28.895745: E tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:9342] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2025-03-29 00:05:28.895855: E tensorflow/compiler/xla/stream_executor/cuda/cuda_fft.cc:609] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2025-03-29 00:05:28.897199: E tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:1518] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-03-29 00:05:28.994405: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-03-29 00:05:28.995852: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-03-29 00:05:30.109448: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 2025-03-29 00:07:24.818 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:09:24.869 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:11:24.978 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:13:25.126 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:15:25.209 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:17:25.294 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:19:25.380 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:21:25.487 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:25:25.633 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:33:25.747 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:35:25.866 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:37:25.977 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 00:57:26.089 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 01:15:26.224 ServerApp] Saving file at /age_gender_identification.ipynb
+[I 2025-03-29 03:00:37.699 ServerApp] Starting buffering for 21bdc40e-1c3f-4a99-9283-04738a369840:ae078951-4b17-4f02-9278-5021ffc9e3bc
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
