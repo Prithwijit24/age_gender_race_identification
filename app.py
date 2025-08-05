@@ -6,8 +6,12 @@ import io
 import numpy as np
 import subprocess as sb
 import os
+import duckdb
+duckdb.execute("INSTALL motherduck; LOAD motherduck;")
+ac_tkn = st.secrets["MOTHERDUCK_TOKEN"]
+duckdb.execute(f"SET motherduck_token='{ac_tkn}';")
 
-from sympy.plotting.backends.textbackend import text
+# from sympy.plotting.backends.textbackend import text
 st.title("Identify Gender and Race", width = "stretch")
 
 import streamlit as st

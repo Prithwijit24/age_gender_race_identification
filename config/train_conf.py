@@ -1,7 +1,7 @@
 from scipy.stats import uniform
 
 
-db_name = 'data/age_gender.db'
+db_name = 'md:age_gender_db'
 train_val_test = {
         'train_val_ratio': 0.1,
         'val_test_ratio': 0.2,

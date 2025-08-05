@@ -1,6 +1,6 @@
 data_mount_and_image_bucketing = {
 'data_mount': {
-    'password': '1379',
+    'password': '******************',
     'mount_point': '/mnt/usb',
     'mounted_drive': '/dev/sda4',
     'data_path': '/mnt/usb/python/project_dataset/utkface_aligned_cropped/UTKFace/'
